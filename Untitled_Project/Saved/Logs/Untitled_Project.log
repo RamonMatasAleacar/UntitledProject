@@ -15275,3 +15275,124 @@ Script Stack (0 frames):
 [2022.03.11-00.01.26:580][287]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2022.03.11-00.01.26:580][287]LogContentValidation: Display: Validating SoundCue /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue
 [2022.03.11-00.01.26:580][287]LogContentValidation: Display: Validating World /Game/Levels/Level_Prototype.Level_Prototype
+[2022.03.11-00.02.08:783][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.11-00.02.08:789][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-00.02.08:789][737]PIE: New page: PIE session: Level_Prototype (Mar 11, 2022, 2:02:08 AM)
+[2022.03.11-00.02.08:790][737]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Prototype
+[2022.03.11-00.02.08:807][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017102s)
+[2022.03.11-00.02.08:808][737]LogAIModule: Creating AISystem for world Level_Prototype
+[2022.03.11-00.02.08:808][737]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2022.03.11-00.02.08:808][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Prototype.Level_Prototype to /Game/Levels/UEDPIE_0_Level_Prototype.Level_Prototype (0.018440s)
+[2022.03.11-00.02.08:877][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.03.11-00.02.08:878][737]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.03.11-00.02.08:878][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-00.02.08:878][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-00.02.08:878][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-00.02.08:878][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-00.02.08:878][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-00.02.08:878][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-00.02.08:878][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-00.02.08:878][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-00.02.08:879][737]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.11-00.02.08:879][737]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-00.02.08:883][737]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-00.02.08:883][737]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-00.02.08:925][737]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2022.03.11-00.02.08:926][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-00.02.08:926][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-00.02.08:926][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-00.02.08:926][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-00.02.08:926][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-00.02.08:926][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-00.02.08:928][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-00.02.08:928][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-00.02.08:928][737]LogInit: FAudioDevice initialized.
+[2022.03.11-00.02.08:928][737]LogAudio: Display: Audio Device (ID: 83) registered with world 'Level_Prototype'.
+[2022.03.11-00.02.08:956][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-00.02.08:956][737]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.11-00.02.08:966][737]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Prototype.Level_Prototype up for play (max tick rate 60) at 2022.03.11-01.02.08
+[2022.03.11-00.02.08:967][737]LogWorld: Bringing up level for play took: 0.009230
+[2022.03.11-00.02.08:967][737]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2022.03.11-00.02.08:973][737]LogBlueprintUserMessages: [interactive_Cube11] construido
+[2022.03.11-00.02.08:973][737]LogBlueprintUserMessages: [interactive_Cube2] construido
+[2022.03.11-00.02.08:973][737]LogBlueprintUserMessages: [interactive_Cube3] construido
+[2022.03.11-00.02.08:974][737]LogBlueprintUserMessages: [interactive_Cube4] construido
+[2022.03.11-00.02.08:974][737]LogBlueprintUserMessages: [interactive_Cube5] construido
+[2022.03.11-00.02.08:975][737]LogBlueprintUserMessages: [interactive_Cube6_9] construido
+[2022.03.11-00.02.08:975][737]LogBlueprintUserMessages: [interactive_Cube8] construido
+[2022.03.11-00.02.08:976][737]LogBlueprintUserMessages: [interactive_Cube9] construido
+[2022.03.11-00.02.08:976][737]LogBlueprintUserMessages: [interactive_Cube_2] construido
+[2022.03.11-00.02.08:977][737]LogBlueprintUserMessages: [interactive_Door10] construido
+[2022.03.11-00.02.08:977][737]LogBlueprintUserMessages: [interactive_Door11] construido
+[2022.03.11-00.02.08:978][737]LogBlueprintUserMessages: [interactive_Door12] construido
+[2022.03.11-00.02.08:978][737]LogBlueprintUserMessages: [interactive_Door2] construido
+[2022.03.11-00.02.08:979][737]LogBlueprintUserMessages: [interactive_Door3] construido
+[2022.03.11-00.02.08:979][737]LogBlueprintUserMessages: [interactive_Door4] construido
+[2022.03.11-00.02.08:980][737]LogBlueprintUserMessages: [interactive_Door5] construido
+[2022.03.11-00.02.08:980][737]LogBlueprintUserMessages: [interactive_Door6] construido
+[2022.03.11-00.02.08:981][737]LogBlueprintUserMessages: [interactive_Door7] construido
+[2022.03.11-00.02.08:981][737]LogBlueprintUserMessages: [interactive_Door8] construido
+[2022.03.11-00.02.08:981][737]LogBlueprintUserMessages: [interactive_Door9] construido
+[2022.03.11-00.02.08:982][737]LogBlueprintUserMessages: [interactive_Door_5] construido
+[2022.03.11-00.02.08:982][737]LogBlueprintUserMessages: [interactive_Platform_2] construido
+[2022.03.11-00.02.08:983][737]LogBlueprintUserMessages: [interactive_Platform10] construido
+[2022.03.11-00.02.08:983][737]LogBlueprintUserMessages: [interactive_Platform2] construido
+[2022.03.11-00.02.08:983][737]LogBlueprintUserMessages: [interactive_Platform3] construido
+[2022.03.11-00.02.08:984][737]LogBlueprintUserMessages: [interactive_Platform4] construido
+[2022.03.11-00.02.08:984][737]LogBlueprintUserMessages: [interactive_Platform5] construido
+[2022.03.11-00.02.08:985][737]LogBlueprintUserMessages: [interactive_Platform6] construido
+[2022.03.11-00.02.08:985][737]LogBlueprintUserMessages: [interactive_Platform7] construido
+[2022.03.11-00.02.08:986][737]LogBlueprintUserMessages: [interactive_Platform8] construido
+[2022.03.11-00.02.08:986][737]LogBlueprintUserMessages: [interactive_Platform9] construido
+[2022.03.11-00.02.08:987][737]Cmd: DISABLEALLSCREENMESSAGES
+[2022.03.11-00.02.08:987][737]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.03.11-00.02.08:989][737]PIE: Server logged in
+[2022.03.11-00.02.08:990][737]PIE: Play in editor total start time 0.202 seconds.
+[2022.03.11-00.02.12:590][950]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.11-00.02.13:114][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-00.02.13:114][979]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Prototype
+[2022.03.11-00.02.13:115][979]LogSlate: Window 'Untitled_Project Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.11-00.02.13:124][979]LogWorld: UWorld::CleanupWorld for Level_Prototype, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-00.02.13:126][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-00.02.13:159][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-00.02.13:178][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-00.02.13:234][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-00.02.13:234][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-00.02.13:236][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-00.02.13:259][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.03.11-00.02.13:299][980]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2022.03.11-00.02.27:713][843]BlueprintLog: New page: Compile interactive_Parent
+[2022.03.11-00.02.27:866][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.03.11-00.02.28:284][859]LogSavePackage: Moving 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Saved/interactive_Parent11CCA0994FC2F38607AF50A5FF762810.tmp' to 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Content/InteractiveBPs/interactive_Parent.uasset'
+[2022.03.11-00.02.28:301][859]AssetCheck: New page: Asset Save: interactive_Parent
+[2022.03.11-00.02.28:301][859]LogContentValidation: Display: Validating Blueprint /Game/InteractiveBPs/interactive_Parent.interactive_Parent
+[2022.03.11-00.02.29:340][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2022.03.11-00.02.29:431][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.03.11-00.02.29:506][918]LogSavePackage: Moving 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Saved/Level_PrototypeA480D7A64F95B84113EE72A07175345D.tmp' to 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Content/Levels/Level_Prototype.umap'
+[2022.03.11-00.02.29:520][918]LogFileHelpers: Saving map 'Level_Prototype' took 0.155
+[2022.03.11-00.02.29:593][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.03.11-00.02.29:618][918]LogSavePackage: Moving 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Saved/FirstPersonExampleMap9AD152F34AB8BA1A6AC5899632BD20BC.tmp' to 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.11-00.02.29:627][918]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.107
+[2022.03.11-00.02.29:641][918]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-00.02.29:641][918]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.11-00.02.29:641][918]LogContentValidation: Display: Validating World /Game/Levels/Level_Prototype.Level_Prototype
+[2022.03.11-00.03.05:218][568]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP4)
+[2022.03.11-00.03.21:144][521]Cmd: TRANSACTION UNDO
+[2022.03.11-00.03.21:144][521]LogEditorTransaction: Undo Scale Actors
+[2022.03.11-00.03.41:744][745]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP3)
+[2022.03.11-00.04.05:375][160]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP)
+[2022.03.11-00.04.25:682][372]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP2)
+[2022.03.11-00.04.28:519][540]Cmd: TRANSACTION UNDO
+[2022.03.11-00.04.28:519][540]LogEditorTransaction: Undo Scale Actors
+[2022.03.11-00.04.41:451][306]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP5)
+[2022.03.11-00.04.45:741][560]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP8)
+[2022.03.11-00.04.56:056][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2022.03.11-00.04.56:548][200]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP6)
+[2022.03.11-00.05.07:101][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2022.03.11-00.05.09:332][955]LogEditorViewport: Clicking on Actor (LMB): checkPointBP_C (checkPointBP7)
+[2022.03.11-00.06.11:100][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.03.11-00.06.11:188][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.11-00.06.11:246][642]LogSavePackage: Moving 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Saved/Level_Prototype0EB2F66945C9FD9B01CBF490B345540E.tmp' to 'C:/Users/marti/Desktop/UNTITLEDPROJECT/UntitledProject/Untitled_Project/Content/Levels/Level_Prototype.umap'
+[2022.03.11-00.06.11:260][642]LogFileHelpers: Saving map 'Level_Prototype' took 0.129
+[2022.03.11-00.06.11:273][642]AssetCheck: New page: Asset Save: Level_Prototype
+[2022.03.11-00.06.11:273][642]LogContentValidation: Display: Validating World /Game/Levels/Level_Prototype.Level_Prototype
